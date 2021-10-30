@@ -2,9 +2,7 @@
 # Project
 web. www.PayOFt.com
 
-
-![Black logo - no background_github](https://user-images.githubusercontent.com/93432547/139534605-fb055c29-6414-4397-b0f6-73f422fb3033.png)
-
+![Black logo - no background_github](https://user-images.githubusercontent.com/93432547/139534712-e33eb9f5-4087-433a-b761-8875adfe9c22.png)
 
 
 # Community
