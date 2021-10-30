@@ -1,5 +1,12 @@
 # Readme
-# About
+# Project
+web. www.PayOFt.com
+
+# Community
+T.  https://twitter.com/payoft_official
+L.  https://www.linkedin.com/company/payoft/
+T.me https://t.me/payoft
+
 
 # What is Payoft ?
 
