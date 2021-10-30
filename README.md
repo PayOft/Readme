@@ -16,3 +16,7 @@ PayOft uses peer-to-peer technology to operate with no central authority. All tr
 # License
 
 PayOft project is released under the terms of the MIT license. For more information see https://opensource.org/licenses/MIT
+
+# Whitepaper
+
+
