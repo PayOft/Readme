@@ -3,7 +3,8 @@
 web. www.PayOFt.com
 
 
-![Social_Profile_logo_Github](https://user-images.githubusercontent.com/93432547/139534455-3f862a24-4b0e-4853-8462-709038bbeba6.jpg)
+![Black logo - no background_github](https://user-images.githubusercontent.com/93432547/139534605-fb055c29-6414-4397-b0f6-73f422fb3033.png)
+
 
 
 # Community
