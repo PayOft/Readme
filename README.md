@@ -32,3 +32,5 @@ PayOft project is released under the terms of the MIT license. For more informat
 # Development Process
 
 If you would like to contribute, please read CONTRIBUTING.
+
+# Contracts
