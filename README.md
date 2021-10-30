@@ -7,4 +7,4 @@ Whta is Payoft ?
 
 License ?
 
-Pay Oft project is released under the terms of the MIT license. See COPYING for more information or see MIT
+Pay Oft project is released under the terms of the MIT license. See COPYING for more information or see MIT https://opensource.org/licenses/MIT
