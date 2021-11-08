@@ -20,7 +20,7 @@ PayOft uses peer-to-peer technology to operate with no central authority. All tr
 
 # Mision
 
-Simple put it aim of PayOft is to established as a usable digital currency around the world by implementing a series of optimizations and upgrades and also by developing free to use digital tools.
+Aim of PayOft is to established as a usable digital currency around the world by implementing a series of optimizations and upgrades.
 
 # License
 
