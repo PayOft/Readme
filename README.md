@@ -30,12 +30,12 @@ PayOft project is released under the terms of the MIT license. For more informat
 
 # Products
 
-fintech Application , check cards for daily use.
+Fintech Application , check cards for daily use.
 
 
 # Based in
 
-PayOFT and mother company AiFintech based in London, United Kingdom.
+PayOFT based in London, United Kingdom. 
 
 
 # Utility - Usability
@@ -44,11 +44,11 @@ Financial transactions
 
 
 
-
 # Development Process
 
-If you would like to contribute, please read CONTRIBUTING.
+Process of creating shared, unchangeable, distributed ledger technology (DLT) that securely records transactions and tracks assets—whether those are physical assets, like money or real estate, or nonphysical assets, like copyrights—within a network.
+
 
 # Contracts
-ETH:
-BSC:
+ETH: xxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BSC: xxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
