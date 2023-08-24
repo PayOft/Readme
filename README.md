@@ -46,8 +46,8 @@ Financial transactions
 
 # Development Process
 
-Process of creating shared, unchangeable, distributed ledger technology (DLT) that securely records transactions and tracks assets—whether those are physical assets, like money or real estate, or nonphysical assets, like copyrights—within a network.
-
+Process of creating shared, unchangeable, distributed ledger technology (DLT) that securely records transactions and tracks assets—whether those are physical assets, like money
+or real estate, or nonphysical assets, like copyrights—within a network.
 
 # Contracts
 ETH: xxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
