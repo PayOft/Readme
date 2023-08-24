@@ -12,7 +12,11 @@ L.  https://www.linkedin.com/company/payoft/
 
 T.me https://t.me/payoft
 
-https://www.instagram.com/payoft_/
+I. https://www.instagram.com/payoft_/
+
+F. https://www.facebook.com/PayOft/
+
+M. https://payoft.medium.com/
 
 
 # What is Payoft ?
