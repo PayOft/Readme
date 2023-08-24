@@ -28,9 +28,26 @@ PayOft project is released under the terms of the MIT license. For more informat
 
 # Whitepaper
 
+# Products
+
+
+
+# Based in
+
+PayOFT and mother company AiFintech based in London, United Kingdom.
+
+
+# Utility - Usability
+
+Financial transactions
+
+
+
 
 # Development Process
 
 If you would like to contribute, please read CONTRIBUTING.
 
 # Contracts
+ETH:
+BSC:
