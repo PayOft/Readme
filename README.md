@@ -18,15 +18,19 @@ T.me https://t.me/payoft
 PayOft is an digital currency that enables instant payments to anyone, anywhere in the world. 
 PayOft uses peer-to-peer technology to operate with no central authority. All transactions and issuing money are carried out by the network.
 
+
 # Mision
 
 Aim of PayOft is to established as a usable digital currency around the world by implementing a series of optimizations and upgrades.
+
 
 # License
 
 PayOft project is released under the terms of the MIT license. For more information see https://opensource.org/licenses/MIT
 
+
 # Whitepaper
+
 
 # Products
 
@@ -43,11 +47,9 @@ PayOFT based in London, United Kingdom.
 Financial transactions
 
 
-
 # Development Process
 
-Process of creating shared, unchangeable, distributed ledger technology (DLT) that securely records transactions and tracks assets—whether those are physical assets, like money
-or real estate, or nonphysical assets, like copyrights—within a network.
+Process of creating shared, unchangeable, distributed ledger technology (DLT) that securely records transactions and tracks assets.
 
 # Contracts
 ETH: xxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
