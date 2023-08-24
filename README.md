@@ -12,6 +12,8 @@ L.  https://www.linkedin.com/company/payoft/
 
 T.me https://t.me/payoft
 
+https://www.instagram.com/payoft_/
+
 
 # What is Payoft ?
 
